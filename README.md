@@ -28,25 +28,12 @@ Fullstack with Node.js Express:
 
 > [React.js + Node.js Express + MongoDB](https://bezkoder.com/react-node-express-mongodb-mern-stack/)
 
-Fullstack with Spring Boot:
-> [React.js + Spring Boot + MySQL](https://bezkoder.com/react-spring-boot-crud/)
+Security:
+> [React + Node.js Express + MySQL: User Authentication with JWT example](https://www.bezkoder.com/react-express-authentication-jwt/)
 
-> [React.js + Spring Boot + MongoDB](https://bezkoder.com/react-spring-boot-mongodb/)
-
-Fullstack with Django:
-> [React.js + Django Rest Framework](https://bezkoder.com/django-react-axios-rest-framework/)
+> [React + Node.js Express + MongoDB: User Authentication with JWT example](https://www.bezkoder.com/react-node-mongodb-auth/)
 
 Serverless:
 > [React Firebase CRUD App with Realtime Database](https://bezkoder.com/react-firebase-crud/)
 
 > [React Firestore CRUD App example | Firebase Cloud Firestore](https://bezkoder.com/react-firestore-crud/)
-
-## Project setup
-```
-npm install
-```
-
-### Run
-```
-node server.js
-```
